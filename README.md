@@ -9,6 +9,9 @@ devstart.
  - [Exercício 1](https://github.com/JonathanR95/beacademy-devstart-logicadeprogramacao/blob/main/exercicio1.txt)
  - [Exercício 2](https://github.com/JonathanR95/beacademy-devstart-logicadeprogramacao/blob/main/exercicio2.txt)
  - [Exercício 3](https://github.com/JonathanR95/beacademy-devstart-logicadeprogramacao/blob/main/exercicio1.txt)
+- [Exercício 4](https://github.com/JonathanR95/beacademy-devstart-logicadeprogramacao/blob/main/exercicio4.alg)
+ - [Exercício 5](https://github.com/JonathanR95/beacademy-devstart-logicadeprogramacao/blob/main/exercicio5.alg)
+ - [Exercício 6](https://github.com/JonathanR95/beacademy-devstart-logicadeprogramacao/blob/main/exercicio6.alg)
   
 ## Autor
 
