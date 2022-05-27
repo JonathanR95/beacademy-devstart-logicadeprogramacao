@@ -1,7 +1,7 @@
 # beacademy-devstart-logicadeprogramacao
 
 Este repositório foi criado para guardar os exercícios 
-feitos no curso de lógica de programação do curso da be.academy
+feitos no módulo de lógica de programação do curso da be.academy
 devstart.
 
 ## Acesse os exercicios 
