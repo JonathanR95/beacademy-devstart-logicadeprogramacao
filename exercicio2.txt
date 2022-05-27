@@ -1,0 +1,11 @@
+Crie um algoritmo para efetuar a troca de um pneu furado:
+
+passo 1 - descer do carro;
+passo 2 - sinalizar a via;
+passo 3 - verificar se o estepe está em condições de uso;
+	caso sim: continuar troca de pneu;
+	caso não: ir em uma oficina ou chamar um reboque;
+passo 4 - trocar o pneu;
+passo 5 - retirar o dispositivo de sinalização da via;
+passo 6 - seguir viagem;
+
